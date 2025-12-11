@@ -82,7 +82,7 @@ navLinks.forEach(link => {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "GAMERS", "web designing", "android development", "web development"],
+    strings: ["Graphic Designer","Web designing","Web development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
